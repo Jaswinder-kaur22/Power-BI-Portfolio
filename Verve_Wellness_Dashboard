@@ -1,0 +1,37 @@
+# RFM Customer Segmentation & Offer Optimization | Power BI
+
+## Project Overview
+
+A Power BI customer intelligence dashboard developed as part of a case
+competition to segment customers using RFM analysis and recommend
+personalized offers based on customer value and behaviour.
+
+## Methodology
+
+- Performed RFM (Recency, Frequency, Monetary) analysis
+- Assigned weights to RFM components to create a composite score
+- Segmented 550 customers into five actionable groups
+- Mapped customer segments to personalized offers
+- Used segment-level insights to support marketing budget allocation
+
+## Key Analysis
+
+- Customer distribution by RFM segment
+- Revenue contribution by customer segment
+- Revenue by product category
+- Monthly order trends
+- Segment-specific offer recommendations
+
+## Key KPIs
+
+| KPI | Value |
+| Total Customers | 550 |
+| Total Revenue | 2.17M |
+| Total Orders | 2K |
+| Average Order Value | 1.21K |
+| Average Customer Spend | 3.94K |
+
+## Tools & Skills
+
+Power BI | Power Query | RFM Analysis | Customer Segmentation |
+Data Modelling | Data Visualization | Business Analytics
